@@ -9,7 +9,7 @@ const Hero = () => {
           <div className="flex items-center gap-3">
             <figure className="img-box w-9 h-9 rounded-lg">
               <img
-                src="/images/Avatar.jpg"
+                src="./images/Avatar.jpg"
                 width={40}
                 height={40}
                 alt="lalit kumar"
@@ -34,7 +34,7 @@ const Hero = () => {
             <div className="hidden lg:block">
                 <figure className="w-full max-w-[400px] ml-auto bg-gradient-to-t from-sky-400 via-25% via-sky-400/40 to-65% rounded-[60px] flex items-center justify-center ">
                     <img 
-                    src="/images/Lalit.png" 
+                    src="./images/Lalit.png" 
                     width={300}
                     height={800}
                     className=""
