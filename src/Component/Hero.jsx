@@ -1,7 +1,11 @@
 import React from "react";
 import { ButtonOutline, ButtonPrimary } from "./Buttons";
+import { ResumeLink } from "../data";
 
 const Hero = () => {
+
+  const MyResume = ResumeLink;
+
   return (
     <section id="home" className="pt-28 lg:pt-36">
       <div className="container lg:grid lg:grid-cols-2 items-center lg:gap-10">
@@ -26,7 +30,7 @@ const Hero = () => {
           <h2 className="headline-1 max-w-[15ch] sm:max-w-[20ch] lg:max-w-[16ch] mt-5 mb-8 lg:mb-10 ">Building Scalable Modern Websites for the Future</h2>
 
           <div className=" flex items-center gap-3">
-            <ButtonPrimary label="Download CV" icon="download"/> 
+            <ButtonPrimary label="Download CV" href={MyResume} icon="download"/> 
             <ButtonOutline label="Scroll down" href="#about" icon="arrow_downward"/>
             </div>
         </div>
