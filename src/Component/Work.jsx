@@ -2,6 +2,12 @@ import ProjectCard from "./ProjectCard";
 
 const works = [
     {
+      imgSrc: './Project-img/Blogifyr.png',
+      title: 'A Blogging Platform',
+      tags: ['API',"Backend","JWT",'Development'],
+      projectLink: 'https://blogifyr.vercel.app/'
+    },
+    {
       imgSrc: './Project-img/Digital-Market.png',
       title: 'Digital Market App',
       tags: ['API', 'MVC', 'Development'],
@@ -47,7 +53,7 @@ const works = [
       imgSrc: './Project-img/Registration-form.png',
       title: 'Registration Form',
       tags: ['Web-design', 'Development'],
-      projectLink: 'https://registration-form-frontend.onrender.com/#/registration-form'
+      projectLink: 'https://registration-frontend-ima7.onrender.com/#/registration-form'
     },
     {
       imgSrc: './Project-img/Uber.png',
