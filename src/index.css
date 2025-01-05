@@ -21,7 +21,8 @@ body{
 \* -------------------------------------- */
 
 .headline-1,
-.headline-2{
+.headline-2,
+.headline-3{
   @apply max-w-max; 
   background: -webkit-linear-gradient(0deg, #fafafa,#a1a1aa);
   -webkit-background-clip: text;
@@ -32,6 +33,9 @@ body{
 }
 .headline-2{
   @apply text-3xl lg:text-4xl lg:leading-tight font-semibold
+}
+.headline-3{
+  @apply text-xl lg:text-xl lg:leading-tight font-semibold mb-4
 }
 .title-1{
   @apply text-[22px] font-normal
