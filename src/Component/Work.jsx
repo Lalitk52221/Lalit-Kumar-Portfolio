@@ -26,6 +26,12 @@ const works = [
       projectLink: 'https://lalitk52221.github.io/Youtube-Clone/'
     },
     {
+      imgSrc: './Project-img/Registration-form.png',
+      title: 'Registration Form',
+      tags: ['Web-design', 'Development', "Backend"],
+      projectLink: 'https://registration-frontend-ima7.onrender.com/'
+    },
+    {
       imgSrc: './Project-img/Instagram-Clone.png',
       title: 'Instagram Clone',
       tags: ['Web-design', 'Development'],
@@ -49,12 +55,7 @@ const works = [
       tags: ['Web-design', 'Development'],
       projectLink: 'https://lalitk52221.github.io/QR---Code-Generator/'
     },
-    {
-      imgSrc: './Project-img/Registration-form.png',
-      title: 'Registration Form',
-      tags: ['Web-design', 'Development'],
-      projectLink: 'https://registration-frontend-ima7.onrender.com/#/registration-form'
-    },
+    
     {
       imgSrc: './Project-img/Uber.png',
       title: 'Uber Receipt',
