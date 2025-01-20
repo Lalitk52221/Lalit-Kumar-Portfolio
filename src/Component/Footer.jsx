@@ -24,24 +24,21 @@ href: '#contact'
 const socials = [
 {
 label: 'GitHub',
-href: 'https://www.github.com/codewithsadee-org'
+href: 'https://github.com/Lalitk52221'
 },
 {
 label: 'LinkedIn',
-href: 'https://www.linkedin.com/in/codewithsadee'
+href: 'https://www.linkedin.com/in/lalit-kumar-90589a1a5/'
 },
 {
 label: 'Twitter X',
-href: 'https://x.com/codewithsadee_'
+href: 'https://x.com/'
 },
 {
 label: 'Instagram',
-href: 'https://www.instagram.com/codewithsadee'
-},
-{
-label: 'CodePen',
-href: 'https://codepen.io/codewithsadee'
+href: 'https://www.instagram.com/lalitkumar885124/'
 }
+
 ];
 import {ButtonPrimary} from "./Buttons"
 const Footer = () => {
