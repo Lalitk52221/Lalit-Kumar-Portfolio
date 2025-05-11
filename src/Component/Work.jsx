@@ -2,6 +2,12 @@ import ProjectCard from "./ProjectCard";
 
 const works = [
     {
+      imgSrc: './Project-img/Aakarshan.png',
+      title: 'Intitute Website',
+      tags: ["Backend","JWT",'Development'],
+      projectLink: 'https://aakarshan-eight.vercel.app/'
+    },
+    {
       imgSrc: './Project-img/Blogifyr.png',
       title: 'A Blogging Platform',
       tags: ['API',"Backend","JWT",'Development'],
@@ -18,6 +24,12 @@ const works = [
       title: 'Swiggy Clone App',
       tags: ['API', 'SPA'],
       projectLink: 'https://lalitk52221.github.io/Swiggy-Clone/'
+    },
+    {
+      imgSrc: './Project-img/DrikPanchang.png',
+      title: 'Drik Panchang',
+      tags: ['Development', 'Web-design'],
+      projectLink: 'https://lalit-panchang.vercel.app/'
     },
     {
       imgSrc: './Project-img/Youtube-Clone.png',

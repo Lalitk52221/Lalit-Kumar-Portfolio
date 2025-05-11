@@ -14,7 +14,7 @@ const ProjectCard = ({
             src={imgSrc} 
             alt="title"
             loading='lazy'
-            className='img-cover'
+            className='img-cover h-30 '
              />
         </figure>
         <div className="flex items-center justify-between gap-4 ">
@@ -53,4 +53,4 @@ ProjectCard.prototype = {
     classes: PropTypes.string
 
 }
-export default ProjectCard
+export default ProjectCard;
