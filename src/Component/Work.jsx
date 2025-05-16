@@ -4,8 +4,8 @@ const works = [
     {
       imgSrc: './Project-img/Aakarshan.png',
       title: 'Institute Website',
-      tags: ["Backend","JWT",'Development'],
-      projectLink: 'https://aakarshan-eight.vercel.app/'
+      tags: ["Next.js","Backend","JWT",'Development'],
+      projectLink: 'https://aakarshan-pi.vercel.app/'
     },
     {
       imgSrc: './Project-img/Blogifyr.png',
