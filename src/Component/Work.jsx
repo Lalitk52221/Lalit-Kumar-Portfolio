@@ -2,7 +2,13 @@ import ProjectCard from "./ProjectCard";
 
 const works = [
     {
-      imgSrc: './Project-img/Aakarshan.png',
+      imgSrc: './Project-img/AakarshanWebsite.png',
+      title: 'Aakarshan Institute Website',
+      tags: ["Next.js","Backend","JWT",'Router'],
+      projectLink: 'https://aakarshan-website-g1ra.vercel.app/'
+    },
+    {
+      imgSrc: './Project-img/Institute.png',
       title: 'Institute Website',
       tags: ["Next.js","Backend","JWT",'Development'],
       projectLink: 'https://aakarshan-pi.vercel.app/'
