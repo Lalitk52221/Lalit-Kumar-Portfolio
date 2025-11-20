@@ -8,6 +8,12 @@ const works = [
       projectLink: 'https://aakarshan-website-g1ra.vercel.app/'
     },
     {
+      imgSrc: './Project-img/Fitment-Camp.png',
+      title: 'Artificial Limb Distribution App',
+      tags: ["Next.js","Backend","Supabase",'excel.js','Router'],
+      projectLink: 'https://limb-distribution-app.vercel.app/'
+    },
+    {
       imgSrc: './Project-img/Institute.png',
       title: 'Institute Website',
       tags: ["Next.js","Backend","JWT",'Development'],
