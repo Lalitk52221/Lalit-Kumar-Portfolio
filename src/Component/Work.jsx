@@ -2,6 +2,12 @@ import ProjectCard from "./ProjectCard";
 
 const works = [
     {
+      imgSrc: './Project-img/hosur-auto-trims.png',
+      title: 'Hosur Auto Trims',
+      tags: ["Next.js","Backend","Framer Motion",'Router',"Whatsapp","Email","Login/Logout"],
+      projectLink: 'https://hosur-auto-trims.vercel.app/'
+    },
+    {
       imgSrc: './Project-img/AakarshanWebsite.png',
       title: 'Aakarshan Institute Website',
       tags: ["Next.js","Backend","JWT",'Router'],
