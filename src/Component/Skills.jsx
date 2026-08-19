@@ -2,16 +2,16 @@ import SkillCard from "./SkillCard";
 
 const skillItem = [
   {
-    imgSrc: "./images/react.svg",
-    label: "React",
-    desc: "Framework",
-  },
-  {
     imgSrc: "./images/Next.js.png",
     label: "Next.js",
     desc: "Framework",
   },
-
+  
+  {
+    imgSrc: "./images/react.svg",
+    label: "React",
+    desc: "Framework",
+  },
   {
     imgSrc: "./images/nodejs.svg",
     label: "NodeJS",

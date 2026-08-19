@@ -10,6 +10,7 @@ const aboutItems = [
     }
   ];
 
+
 const About = () => {
   return (
     <section
