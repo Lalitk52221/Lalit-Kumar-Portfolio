@@ -8,6 +8,12 @@ const works = [
       projectLink: 'https://hosur-auto-trims.vercel.app/'
     },
     {
+      imgSrc: './Project-img/real-estate.png',
+      title: 'Real Estate Pro',
+      tags: ["Next.js","Backend","JWT","Framer Motion",'Router',"Whatsapp","Email","Login/Logout"],
+      projectLink: 'https://real-estate-black-three.vercel.app/'
+    },
+    {
       imgSrc: './Project-img/AakarshanWebsite.png',
       title: 'Aakarshan Institute Website',
       tags: ["Next.js","Backend","JWT",'Router'],
